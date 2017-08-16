@@ -24,7 +24,11 @@
     "bootstrap": "^4.0.0-beta",
     "core-js": "^2.4.1",
     "jquery": "^3.2.1",
+<<<<<<< HEAD
     "ng2-charts": "^1.6.0",
+=======
+    "ng2-select2": "^1.0.0-beta.10",
+>>>>>>> 604a57be4c911835b65f7ce2bf2bb76b3d089273
     "rxjs": "^5.4.1",
     "zone.js": "^0.8.14"
   },
@@ -34,6 +38,7 @@
     "@angular/language-service": "^4.0.0",
     "@types/jasmine": "~2.5.53",
     "@types/jasminewd2": "~2.0.2",
+    "@types/jquery": "^3.2.11",
     "@types/node": "~6.0.60",
     "codelyzer": "~3.0.1",
     "jasmine-core": "~2.6.2",
@@ -45,6 +50,7 @@
     "karma-jasmine": "~1.1.0",
     "karma-jasmine-html-reporter": "^0.2.2",
     "protractor": "~5.1.2",
+    "select2": "^4.0.3",
     "ts-node": "~3.0.4",
     "tslint": "~5.3.2",
     "typescript": "~2.3.3"
