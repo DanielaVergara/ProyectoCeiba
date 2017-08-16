@@ -12,6 +12,8 @@ import { GrfEsfuerzoComponent } from './grf-esfuerzo/grf-esfuerzo.component';
 import { GrfHorasExtraComponent } from './grf-horas-extra/grf-horas-extra.component';
 import { GrfNumeroUnitariasComponent } from './grf-numero-unitarias/grf-numero-unitarias.component';
 import { GrfCoberturaUnitariasComponent } from './grf-cobertura-unitarias/grf-cobertura-unitarias.component';
+import * as $ from 'jquery';
+
 
 @NgModule({
   declarations: [
@@ -25,7 +27,8 @@ import { GrfCoberturaUnitariasComponent } from './grf-cobertura-unitarias/grf-co
     GrfEsfuerzoComponent,
     GrfHorasExtraComponent,
     GrfNumeroUnitariasComponent,
-    GrfCoberturaUnitariasComponent
+    GrfCoberturaUnitariasComponent,
+    
   ],
   imports: [
     BrowserModule
